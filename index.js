@@ -36,4 +36,3 @@ array = [
 		console.log('nema stringa');
 	}
 
-
